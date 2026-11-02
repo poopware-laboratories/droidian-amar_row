@@ -1,0 +1,11 @@
+# Generated Droidian build output
+/out/
+
+# Generated root filesystem image
+/build/lte/zip/data/rootfs.img
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+EOF

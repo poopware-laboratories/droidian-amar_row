@@ -1,0 +1,451 @@
+mkdir /var
+sif /var mode 040755
+sif /var uid 0
+sif /var gid 0
+mkdir /usr
+sif /usr mode 040755
+sif /usr uid 0
+sif /usr gid 0
+mkdir /etc
+sif /etc mode 040755
+sif /etc uid 0
+sif /etc gid 0
+mkdir /boot
+sif /boot mode 040755
+sif /boot uid 0
+sif /boot gid 0
+mkdir /etc/udev
+sif /etc/udev mode 040755
+sif /etc/udev uid 0
+sif /etc/udev gid 0
+mkdir /etc/systemd
+sif /etc/systemd mode 040755
+sif /etc/systemd uid 0
+sif /etc/systemd gid 0
+mkdir /etc/pulse
+sif /etc/pulse mode 040755
+sif /etc/pulse uid 0
+sif /etc/pulse gid 0
+mkdir /etc/phosh
+sif /etc/phosh mode 040755
+sif /etc/phosh uid 0
+sif /etc/phosh gid 0
+mkdir /etc/ofono
+sif /etc/ofono mode 040755
+sif /etc/ofono uid 0
+sif /etc/ofono gid 0
+mkdir /etc/NetworkManager
+sif /etc/NetworkManager mode 040755
+sif /etc/NetworkManager uid 0
+sif /etc/NetworkManager gid 0
+mkdir /etc/NetworkManager/conf.d
+sif /etc/NetworkManager/conf.d mode 040755
+sif /etc/NetworkManager/conf.d uid 0
+sif /etc/NetworkManager/conf.d gid 0
+mkdir /etc/ofono/ril_subscription.d
+sif /etc/ofono/ril_subscription.d mode 040755
+sif /etc/ofono/ril_subscription.d uid 0
+sif /etc/ofono/ril_subscription.d gid 0
+mkdir /etc/systemd/user
+sif /etc/systemd/user mode 040755
+sif /etc/systemd/user uid 0
+sif /etc/systemd/user gid 0
+mkdir /etc/systemd/system
+sif /etc/systemd/system mode 040755
+sif /etc/systemd/system uid 0
+sif /etc/systemd/system gid 0
+mkdir /etc/systemd/system/multi-user.target.wants
+sif /etc/systemd/system/multi-user.target.wants mode 040755
+sif /etc/systemd/system/multi-user.target.wants uid 0
+sif /etc/systemd/system/multi-user.target.wants gid 0
+mkdir /etc/systemd/system/android-mount.service.d
+sif /etc/systemd/system/android-mount.service.d mode 040755
+sif /etc/systemd/system/android-mount.service.d uid 0
+sif /etc/systemd/system/android-mount.service.d gid 0
+mkdir /etc/systemd/user/pulseaudio.service.d
+sif /etc/systemd/user/pulseaudio.service.d mode 040755
+sif /etc/systemd/user/pulseaudio.service.d uid 0
+sif /etc/systemd/user/pulseaudio.service.d gid 0
+mkdir /etc/udev/rules.d
+sif /etc/udev/rules.d mode 040755
+sif /etc/udev/rules.d uid 0
+sif /etc/udev/rules.d gid 0
+mkdir /usr/sbin
+sif /usr/sbin mode 040755
+sif /usr/sbin uid 0
+sif /usr/sbin gid 0
+mkdir /usr/lib
+sif /usr/lib mode 040755
+sif /usr/lib uid 0
+sif /usr/lib gid 0
+mkdir /usr/bin
+sif /usr/bin mode 040755
+sif /usr/bin uid 0
+sif /usr/bin gid 0
+mkdir /usr/lib/systemd
+sif /usr/lib/systemd mode 040755
+sif /usr/lib/systemd uid 0
+sif /usr/lib/systemd gid 0
+mkdir /usr/lib/modules-load.d
+sif /usr/lib/modules-load.d mode 040755
+sif /usr/lib/modules-load.d uid 0
+sif /usr/lib/modules-load.d gid 0
+mkdir /usr/lib/modules
+sif /usr/lib/modules mode 040755
+sif /usr/lib/modules uid 0
+sif /usr/lib/modules gid 0
+mkdir /usr/lib/droidian
+sif /usr/lib/droidian mode 040755
+sif /usr/lib/droidian uid 0
+sif /usr/lib/droidian gid 0
+mkdir /usr/lib/droid-vendor-overlay
+sif /usr/lib/droid-vendor-overlay mode 040755
+sif /usr/lib/droid-vendor-overlay uid 0
+sif /usr/lib/droid-vendor-overlay gid 0
+mkdir /usr/lib/droid-vendor-overlay/etc
+sif /usr/lib/droid-vendor-overlay/etc mode 040755
+sif /usr/lib/droid-vendor-overlay/etc uid 0
+sif /usr/lib/droid-vendor-overlay/etc gid 0
+mkdir /usr/lib/droid-vendor-overlay/etc/init
+sif /usr/lib/droid-vendor-overlay/etc/init mode 040755
+sif /usr/lib/droid-vendor-overlay/etc/init uid 0
+sif /usr/lib/droid-vendor-overlay/etc/init gid 0
+mkdir /usr/lib/droidian/device
+sif /usr/lib/droidian/device mode 040755
+sif /usr/lib/droidian/device uid 0
+sif /usr/lib/droidian/device gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte
+sif /usr/lib/modules/4.19.127-amar_row_lte mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/net
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc gid 0
+mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs mode 040755
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs gid 0
+mkdir /usr/lib/systemd/system
+sif /usr/lib/systemd/system mode 040755
+sif /usr/lib/systemd/system uid 0
+sif /usr/lib/systemd/system gid 0
+mkdir /usr/lib/systemd/system/bluebinder.service.d
+sif /usr/lib/systemd/system/bluebinder.service.d mode 040755
+sif /usr/lib/systemd/system/bluebinder.service.d uid 0
+sif /usr/lib/systemd/system/bluebinder.service.d gid 0
+rm /boot/vbmeta.img
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/vbmeta.img /boot/vbmeta.img
+sif /boot/vbmeta.img mode 0100664
+sif /boot/vbmeta.img uid 0
+sif /boot/vbmeta.img gid 0
+rm /boot/dtbo.img
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/dtbo.img /boot/dtbo.img
+sif /boot/dtbo.img mode 0100664
+sif /boot/dtbo.img uid 0
+sif /boot/dtbo.img gid 0
+rm /boot/boot.img
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/boot.img /boot/boot.img
+sif /boot/boot.img mode 0100664
+sif /boot/boot.img uid 0
+sif /boot/boot.img gid 0
+rm /etc/NetworkManager/conf.d/wow.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/NetworkManager/conf.d/wow.conf /etc/NetworkManager/conf.d/wow.conf
+sif /etc/NetworkManager/conf.d/wow.conf mode 0100644
+sif /etc/NetworkManager/conf.d/wow.conf uid 0
+sif /etc/NetworkManager/conf.d/wow.conf gid 0
+rm /etc/NetworkManager/conf.d/fix-ap-with-password.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/NetworkManager/conf.d/fix-ap-with-password.conf /etc/NetworkManager/conf.d/fix-ap-with-password.conf
+sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf mode 0100644
+sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf uid 0
+sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf gid 0
+rm /etc/ofono/ril_subscription.d/mtk.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/ofono/ril_subscription.d/mtk.conf /etc/ofono/ril_subscription.d/mtk.conf
+sif /etc/ofono/ril_subscription.d/mtk.conf mode 0100644
+sif /etc/ofono/ril_subscription.d/mtk.conf uid 0
+sif /etc/ofono/ril_subscription.d/mtk.conf gid 0
+rm /etc/phosh/phoc.ini
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/phosh/phoc.ini /etc/phosh/phoc.ini
+sif /etc/phosh/phoc.ini mode 0100644
+sif /etc/phosh/phoc.ini uid 0
+sif /etc/phosh/phoc.ini gid 0
+rm /etc/pulse/arm_droid_card_custom.pa
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/pulse/arm_droid_card_custom.pa /etc/pulse/arm_droid_card_custom.pa
+sif /etc/pulse/arm_droid_card_custom.pa mode 0100644
+sif /etc/pulse/arm_droid_card_custom.pa uid 0
+sif /etc/pulse/arm_droid_card_custom.pa gid 0
+rm /etc/systemd/system/amar-modules.service
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/system/amar-modules.service /etc/systemd/system/amar-modules.service
+sif /etc/systemd/system/amar-modules.service mode 0100644
+sif /etc/systemd/system/amar-modules.service uid 0
+sif /etc/systemd/system/amar-modules.service gid 0
+rm /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/system/android-mount.service.d/10-amar-vendor.conf /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf
+sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf mode 0100644
+sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf uid 0
+sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf gid 0
+rm /etc/systemd/user/pulseaudio.service.d/10-env.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/user/pulseaudio.service.d/10-env.conf /etc/systemd/user/pulseaudio.service.d/10-env.conf
+sif /etc/systemd/user/pulseaudio.service.d/10-env.conf mode 0100644
+sif /etc/systemd/user/pulseaudio.service.d/10-env.conf uid 0
+sif /etc/systemd/user/pulseaudio.service.d/10-env.conf gid 0
+rm /etc/udev/rules.d/99-uinput.rules
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/99-uinput.rules /etc/udev/rules.d/99-uinput.rules
+sif /etc/udev/rules.d/99-uinput.rules mode 0100644
+sif /etc/udev/rules.d/99-uinput.rules uid 0
+sif /etc/udev/rules.d/99-uinput.rules gid 0
+rm /etc/udev/rules.d/80-amar-touchscreen.rules
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/80-amar-touchscreen.rules /etc/udev/rules.d/80-amar-touchscreen.rules
+sif /etc/udev/rules.d/80-amar-touchscreen.rules mode 0100644
+sif /etc/udev/rules.d/80-amar-touchscreen.rules uid 0
+sif /etc/udev/rules.d/80-amar-touchscreen.rules gid 0
+rm /etc/udev/rules.d/70-amar.rules
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/70-amar.rules /etc/udev/rules.d/70-amar.rules
+sif /etc/udev/rules.d/70-amar.rules mode 0100644
+sif /etc/udev/rules.d/70-amar.rules uid 0
+sif /etc/udev/rules.d/70-amar.rules gid 0
+rm /usr/bin/amar-modules.sh
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/bin/amar-modules.sh /usr/bin/amar-modules.sh
+sif /usr/bin/amar-modules.sh mode 0100755
+sif /usr/bin/amar-modules.sh uid 0
+sif /usr/bin/amar-modules.sh gid 0
+rm /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc
+sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc mode 0100644
+sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc uid 0
+sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc gid 0
+rm /usr/lib/droidian/device/preferred-hostname
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droidian/device/preferred-hostname /usr/lib/droidian/device/preferred-hostname
+sif /usr/lib/droidian/device/preferred-hostname mode 0100644
+sif /usr/lib/droidian/device/preferred-hostname uid 0
+sif /usr/lib/droidian/device/preferred-hostname gid 0
+rm /usr/lib/droidian/device/mtp-supported
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droidian/device/mtp-supported /usr/lib/droidian/device/mtp-supported
+sif /usr/lib/droidian/device/mtp-supported mode 0100644
+sif /usr/lib/droidian/device/mtp-supported uid 0
+sif /usr/lib/droidian/device/mtp-supported gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.symbols /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.softdep /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.order
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.order /usr/lib/modules/4.19.127-amar_row_lte/modules.order
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.devname
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.devname /usr/lib/modules/4.19.127-amar_row_lte/modules.devname
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.dep
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.dep /usr/lib/modules/4.19.127-amar_row_lte/modules.dep
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/modules.alias
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.alias /usr/lib/modules/4.19.127-amar_row_lte/modules.alias
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias mode 0100644
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko gid 0
+rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko mode 0100664
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko uid 0
+sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko gid 0
+rm /usr/lib/systemd/system/bluebinder.service.d/10-after.conf
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/systemd/system/bluebinder.service.d/10-after.conf /usr/lib/systemd/system/bluebinder.service.d/10-after.conf
+sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf mode 0100644
+sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf uid 0
+sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf gid 0
+rm /usr/sbin/amar-mount-vendor.sh
+write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/sbin/amar-mount-vendor.sh /usr/sbin/amar-mount-vendor.sh
+sif /usr/sbin/amar-mount-vendor.sh mode 0100755
+sif /usr/sbin/amar-mount-vendor.sh uid 0
+sif /usr/sbin/amar-mount-vendor.sh gid 0
+rm /etc/systemd/system/multi-user.target.wants/amar-modules.service
+symlink /etc/systemd/system/multi-user.target.wants/amar-modules.service /etc/systemd/system/amar-modules.service

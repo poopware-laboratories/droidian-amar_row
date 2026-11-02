@@ -1,0 +1,14 @@
+[Unit]
+Description=Load MediaTek WMT/WLAN/BT/GPS/FM vendor modules
+Requires=lxc@android.service
+After=lxc@android.service
+Before=droidian-boot-wlan.service droidian-boot-wlan.path
+ConditionPathExists=/vendor/lib/modules
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStart=/usr/bin/amar-modules.sh
+
+[Install]
+WantedBy=multi-user.target

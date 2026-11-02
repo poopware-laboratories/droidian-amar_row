@@ -1,0 +1,591 @@
+debugfs 1.47.2 (1-Jan-2025)
+debugfs: mkdir /var
+ext2fs_mkdir: Ext2 directory already exists while creating directory "var"
+mkdir: Ext2 directory already exists 
+debugfs: sif /var mode 040755
+debugfs: sif /var uid 0
+debugfs: sif /var gid 0
+debugfs: mkdir /usr
+ext2fs_mkdir: Ext2 directory already exists while creating directory "usr"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr mode 040755
+debugfs: sif /usr uid 0
+debugfs: sif /usr gid 0
+debugfs: mkdir /etc
+ext2fs_mkdir: Ext2 directory already exists while creating directory "etc"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc mode 040755
+debugfs: sif /etc uid 0
+debugfs: sif /etc gid 0
+debugfs: mkdir /boot
+ext2fs_mkdir: Ext2 directory already exists while creating directory "boot"
+mkdir: Ext2 directory already exists 
+debugfs: sif /boot mode 040755
+debugfs: sif /boot uid 0
+debugfs: sif /boot gid 0
+debugfs: mkdir /etc/udev
+ext2fs_mkdir: Ext2 directory already exists while creating directory "udev"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/udev mode 040755
+debugfs: sif /etc/udev uid 0
+debugfs: sif /etc/udev gid 0
+debugfs: mkdir /etc/systemd
+ext2fs_mkdir: Ext2 directory already exists while creating directory "systemd"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/systemd mode 040755
+debugfs: sif /etc/systemd uid 0
+debugfs: sif /etc/systemd gid 0
+debugfs: mkdir /etc/pulse
+ext2fs_mkdir: Ext2 directory already exists while creating directory "pulse"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/pulse mode 040755
+debugfs: sif /etc/pulse uid 0
+debugfs: sif /etc/pulse gid 0
+debugfs: mkdir /etc/phosh
+debugfs: sif /etc/phosh mode 040755
+debugfs: sif /etc/phosh uid 0
+debugfs: sif /etc/phosh gid 0
+debugfs: mkdir /etc/ofono
+ext2fs_mkdir: Ext2 directory already exists while creating directory "ofono"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/ofono mode 040755
+debugfs: sif /etc/ofono uid 0
+debugfs: sif /etc/ofono gid 0
+debugfs: mkdir /etc/NetworkManager
+ext2fs_mkdir: Ext2 directory already exists while creating directory "NetworkManager"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/NetworkManager mode 040755
+debugfs: sif /etc/NetworkManager uid 0
+debugfs: sif /etc/NetworkManager gid 0
+debugfs: mkdir /etc/NetworkManager/conf.d
+ext2fs_mkdir: Ext2 directory already exists while creating directory "conf.d"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/NetworkManager/conf.d mode 040755
+debugfs: sif /etc/NetworkManager/conf.d uid 0
+debugfs: sif /etc/NetworkManager/conf.d gid 0
+debugfs: mkdir /etc/ofono/ril_subscription.d
+debugfs: sif /etc/ofono/ril_subscription.d mode 040755
+debugfs: sif /etc/ofono/ril_subscription.d uid 0
+debugfs: sif /etc/ofono/ril_subscription.d gid 0
+debugfs: mkdir /etc/systemd/user
+ext2fs_mkdir: Ext2 directory already exists while creating directory "user"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/systemd/user mode 040755
+debugfs: sif /etc/systemd/user uid 0
+debugfs: sif /etc/systemd/user gid 0
+debugfs: mkdir /etc/systemd/system
+ext2fs_mkdir: Ext2 directory already exists while creating directory "system"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/systemd/system mode 040755
+debugfs: sif /etc/systemd/system uid 0
+debugfs: sif /etc/systemd/system gid 0
+debugfs: mkdir /etc/systemd/system/multi-user.target.wants
+ext2fs_mkdir: Ext2 directory already exists while creating directory "multi-user.target.wants"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/systemd/system/multi-user.target.wants mode 040755
+debugfs: sif /etc/systemd/system/multi-user.target.wants uid 0
+debugfs: sif /etc/systemd/system/multi-user.target.wants gid 0
+debugfs: mkdir /etc/systemd/system/android-mount.service.d
+debugfs: sif /etc/systemd/system/android-mount.service.d mode 040755
+debugfs: sif /etc/systemd/system/android-mount.service.d uid 0
+debugfs: sif /etc/systemd/system/android-mount.service.d gid 0
+debugfs: mkdir /etc/systemd/user/pulseaudio.service.d
+ext2fs_mkdir: Ext2 directory already exists while creating directory "pulseaudio.service.d"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/systemd/user/pulseaudio.service.d mode 040755
+debugfs: sif /etc/systemd/user/pulseaudio.service.d uid 0
+debugfs: sif /etc/systemd/user/pulseaudio.service.d gid 0
+debugfs: mkdir /etc/udev/rules.d
+ext2fs_mkdir: Ext2 directory already exists while creating directory "rules.d"
+mkdir: Ext2 directory already exists 
+debugfs: sif /etc/udev/rules.d mode 040755
+debugfs: sif /etc/udev/rules.d uid 0
+debugfs: sif /etc/udev/rules.d gid 0
+debugfs: mkdir /usr/sbin
+ext2fs_mkdir: Ext2 directory already exists while creating directory "sbin"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/sbin mode 040755
+debugfs: sif /usr/sbin uid 0
+debugfs: sif /usr/sbin gid 0
+debugfs: mkdir /usr/lib
+ext2fs_mkdir: Ext2 directory already exists while creating directory "lib"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib mode 040755
+debugfs: sif /usr/lib uid 0
+debugfs: sif /usr/lib gid 0
+debugfs: mkdir /usr/bin
+ext2fs_mkdir: Ext2 directory already exists while creating directory "bin"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/bin mode 040755
+debugfs: sif /usr/bin uid 0
+debugfs: sif /usr/bin gid 0
+debugfs: mkdir /usr/lib/systemd
+ext2fs_mkdir: Ext2 directory already exists while creating directory "systemd"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/systemd mode 040755
+debugfs: sif /usr/lib/systemd uid 0
+debugfs: sif /usr/lib/systemd gid 0
+debugfs: mkdir /usr/lib/modules-load.d
+debugfs: sif /usr/lib/modules-load.d mode 040755
+debugfs: sif /usr/lib/modules-load.d uid 0
+debugfs: sif /usr/lib/modules-load.d gid 0
+debugfs: mkdir /usr/lib/modules
+debugfs: sif /usr/lib/modules mode 040755
+debugfs: sif /usr/lib/modules uid 0
+debugfs: sif /usr/lib/modules gid 0
+debugfs: mkdir /usr/lib/droidian
+ext2fs_mkdir: Ext2 directory already exists while creating directory "droidian"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/droidian mode 040755
+debugfs: sif /usr/lib/droidian uid 0
+debugfs: sif /usr/lib/droidian gid 0
+debugfs: mkdir /usr/lib/droid-vendor-overlay
+ext2fs_mkdir: Ext2 directory already exists while creating directory "droid-vendor-overlay"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/droid-vendor-overlay mode 040755
+debugfs: sif /usr/lib/droid-vendor-overlay uid 0
+debugfs: sif /usr/lib/droid-vendor-overlay gid 0
+debugfs: mkdir /usr/lib/droid-vendor-overlay/etc
+ext2fs_mkdir: Ext2 directory already exists while creating directory "etc"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/droid-vendor-overlay/etc mode 040755
+debugfs: sif /usr/lib/droid-vendor-overlay/etc uid 0
+debugfs: sif /usr/lib/droid-vendor-overlay/etc gid 0
+debugfs: mkdir /usr/lib/droid-vendor-overlay/etc/init
+ext2fs_mkdir: Ext2 directory already exists while creating directory "init"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init mode 040755
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init uid 0
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init gid 0
+debugfs: mkdir /usr/lib/droidian/device
+debugfs: sif /usr/lib/droidian/device mode 040755
+debugfs: sif /usr/lib/droidian/device uid 0
+debugfs: sif /usr/lib/droidian/device gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/net
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250 gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4 gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc gid 0
+debugfs: mkdir /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs mode 040755
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs gid 0
+debugfs: mkdir /usr/lib/systemd/system
+ext2fs_mkdir: Ext2 directory already exists while creating directory "system"
+mkdir: Ext2 directory already exists 
+debugfs: sif /usr/lib/systemd/system mode 040755
+debugfs: sif /usr/lib/systemd/system uid 0
+debugfs: sif /usr/lib/systemd/system gid 0
+debugfs: mkdir /usr/lib/systemd/system/bluebinder.service.d
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d mode 040755
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d uid 0
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d gid 0
+debugfs: rm /boot/vbmeta.img
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/vbmeta.img /boot/vbmeta.img
+Allocated inode: 187873
+debugfs: sif /boot/vbmeta.img mode 0100664
+debugfs: sif /boot/vbmeta.img uid 0
+debugfs: sif /boot/vbmeta.img gid 0
+debugfs: rm /boot/dtbo.img
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/dtbo.img /boot/dtbo.img
+Allocated inode: 187874
+debugfs: sif /boot/dtbo.img mode 0100664
+debugfs: sif /boot/dtbo.img uid 0
+debugfs: sif /boot/dtbo.img gid 0
+debugfs: rm /boot/boot.img
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/boot/boot.img /boot/boot.img
+Allocated inode: 187875
+debugfs: sif /boot/boot.img mode 0100664
+debugfs: sif /boot/boot.img uid 0
+debugfs: sif /boot/boot.img gid 0
+debugfs: rm /etc/NetworkManager/conf.d/wow.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/NetworkManager/conf.d/wow.conf /etc/NetworkManager/conf.d/wow.conf
+Allocated inode: 187876
+debugfs: sif /etc/NetworkManager/conf.d/wow.conf mode 0100644
+debugfs: sif /etc/NetworkManager/conf.d/wow.conf uid 0
+debugfs: sif /etc/NetworkManager/conf.d/wow.conf gid 0
+debugfs: rm /etc/NetworkManager/conf.d/fix-ap-with-password.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/NetworkManager/conf.d/fix-ap-with-password.conf /etc/NetworkManager/conf.d/fix-ap-with-password.conf
+Allocated inode: 187877
+debugfs: sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf mode 0100644
+debugfs: sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf uid 0
+debugfs: sif /etc/NetworkManager/conf.d/fix-ap-with-password.conf gid 0
+debugfs: rm /etc/ofono/ril_subscription.d/mtk.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/ofono/ril_subscription.d/mtk.conf /etc/ofono/ril_subscription.d/mtk.conf
+Allocated inode: 187878
+debugfs: sif /etc/ofono/ril_subscription.d/mtk.conf mode 0100644
+debugfs: sif /etc/ofono/ril_subscription.d/mtk.conf uid 0
+debugfs: sif /etc/ofono/ril_subscription.d/mtk.conf gid 0
+debugfs: rm /etc/phosh/phoc.ini
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/phosh/phoc.ini /etc/phosh/phoc.ini
+Allocated inode: 187879
+debugfs: sif /etc/phosh/phoc.ini mode 0100644
+debugfs: sif /etc/phosh/phoc.ini uid 0
+debugfs: sif /etc/phosh/phoc.ini gid 0
+debugfs: rm /etc/pulse/arm_droid_card_custom.pa
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/pulse/arm_droid_card_custom.pa /etc/pulse/arm_droid_card_custom.pa
+Allocated inode: 187880
+debugfs: sif /etc/pulse/arm_droid_card_custom.pa mode 0100644
+debugfs: sif /etc/pulse/arm_droid_card_custom.pa uid 0
+debugfs: sif /etc/pulse/arm_droid_card_custom.pa gid 0
+debugfs: rm /etc/systemd/system/amar-modules.service
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/system/amar-modules.service /etc/systemd/system/amar-modules.service
+Allocated inode: 187881
+debugfs: sif /etc/systemd/system/amar-modules.service mode 0100644
+debugfs: sif /etc/systemd/system/amar-modules.service uid 0
+debugfs: sif /etc/systemd/system/amar-modules.service gid 0
+debugfs: rm /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/system/android-mount.service.d/10-amar-vendor.conf /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf
+Allocated inode: 187882
+debugfs: sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf mode 0100644
+debugfs: sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf uid 0
+debugfs: sif /etc/systemd/system/android-mount.service.d/10-amar-vendor.conf gid 0
+debugfs: rm /etc/systemd/user/pulseaudio.service.d/10-env.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/systemd/user/pulseaudio.service.d/10-env.conf /etc/systemd/user/pulseaudio.service.d/10-env.conf
+Allocated inode: 187883
+debugfs: sif /etc/systemd/user/pulseaudio.service.d/10-env.conf mode 0100644
+debugfs: sif /etc/systemd/user/pulseaudio.service.d/10-env.conf uid 0
+debugfs: sif /etc/systemd/user/pulseaudio.service.d/10-env.conf gid 0
+debugfs: rm /etc/udev/rules.d/99-uinput.rules
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/99-uinput.rules /etc/udev/rules.d/99-uinput.rules
+Allocated inode: 187884
+debugfs: sif /etc/udev/rules.d/99-uinput.rules mode 0100644
+debugfs: sif /etc/udev/rules.d/99-uinput.rules uid 0
+debugfs: sif /etc/udev/rules.d/99-uinput.rules gid 0
+debugfs: rm /etc/udev/rules.d/80-amar-touchscreen.rules
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/80-amar-touchscreen.rules /etc/udev/rules.d/80-amar-touchscreen.rules
+Allocated inode: 187885
+debugfs: sif /etc/udev/rules.d/80-amar-touchscreen.rules mode 0100644
+debugfs: sif /etc/udev/rules.d/80-amar-touchscreen.rules uid 0
+debugfs: sif /etc/udev/rules.d/80-amar-touchscreen.rules gid 0
+debugfs: rm /etc/udev/rules.d/70-amar.rules
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/etc/udev/rules.d/70-amar.rules /etc/udev/rules.d/70-amar.rules
+Allocated inode: 187886
+debugfs: sif /etc/udev/rules.d/70-amar.rules mode 0100644
+debugfs: sif /etc/udev/rules.d/70-amar.rules uid 0
+debugfs: sif /etc/udev/rules.d/70-amar.rules gid 0
+debugfs: rm /usr/bin/amar-modules.sh
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/bin/amar-modules.sh /usr/bin/amar-modules.sh
+Allocated inode: 24941
+debugfs: sif /usr/bin/amar-modules.sh mode 0100755
+debugfs: sif /usr/bin/amar-modules.sh uid 0
+debugfs: sif /usr/bin/amar-modules.sh gid 0
+debugfs: rm /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc
+Allocated inode: 24942
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc mode 0100644
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc uid 0
+debugfs: sif /usr/lib/droid-vendor-overlay/etc/init/vendor.mediatek.hardware.pq@2.2-service.rc gid 0
+debugfs: rm /usr/lib/droidian/device/preferred-hostname
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droidian/device/preferred-hostname /usr/lib/droidian/device/preferred-hostname
+Allocated inode: 24943
+debugfs: sif /usr/lib/droidian/device/preferred-hostname mode 0100644
+debugfs: sif /usr/lib/droidian/device/preferred-hostname uid 0
+debugfs: sif /usr/lib/droidian/device/preferred-hostname gid 0
+debugfs: rm /usr/lib/droidian/device/mtp-supported
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/droidian/device/mtp-supported /usr/lib/droidian/device/mtp-supported
+Allocated inode: 24944
+debugfs: sif /usr/lib/droidian/device/mtp-supported mode 0100644
+debugfs: sif /usr/lib/droidian/device/mtp-supported uid 0
+debugfs: sif /usr/lib/droidian/device/mtp-supported gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep
+Allocated inode: 24945
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.weakdep gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin
+Allocated inode: 24946
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols.bin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.symbols /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols
+Allocated inode: 24947
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.symbols gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.softdep /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep
+Allocated inode: 24948
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.softdep gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.order
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.order /usr/lib/modules/4.19.127-amar_row_lte/modules.order
+Allocated inode: 24949
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.order gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.devname
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.devname /usr/lib/modules/4.19.127-amar_row_lte/modules.devname
+Allocated inode: 24950
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.devname gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin
+Allocated inode: 24951
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep.bin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.dep
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.dep /usr/lib/modules/4.19.127-amar_row_lte/modules.dep
+Allocated inode: 24952
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.dep gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin
+Allocated inode: 24953
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.bin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin
+Allocated inode: 24954
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin.alias.bin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.builtin /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin
+Allocated inode: 24955
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.builtin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin
+Allocated inode: 24956
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias.bin gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/modules.alias
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/modules.alias /usr/lib/modules/4.19.127-amar_row_lte/modules.alias
+Allocated inode: 24957
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias mode 0100644
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/modules.alias gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko
+Allocated inode: 24958
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/crypto/md4.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko
+Allocated inode: 24959
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/media/usb/gspca/gspca_main.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko
+Allocated inode: 24960
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko
+Allocated inode: 24961
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/mmc/host/sdhci-pltfm.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko
+Allocated inode: 24962
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/power/supply/mt6359_battery.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko
+Allocated inode: 24963
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/tty/serial/8250/8250_of.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko
+Allocated inode: 24964
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/drivers/usb/gadget/udc/dummy_hcd.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko
+Allocated inode: 24965
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/fs/cifs/cifs.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko
+Allocated inode: 24966
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/kernel/kheaders.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko
+Allocated inode: 24967
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_westwood.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko
+Allocated inode: 24968
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/net/ipv4/tcp_htcp.ko gid 0
+debugfs: rm /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko
+Allocated inode: 24969
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko mode 0100664
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko uid 0
+debugfs: sif /usr/lib/modules/4.19.127-amar_row_lte/kernel/sound/soc/codecs/mt6359-accdet.ko gid 0
+debugfs: rm /usr/lib/systemd/system/bluebinder.service.d/10-after.conf
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/lib/systemd/system/bluebinder.service.d/10-after.conf /usr/lib/systemd/system/bluebinder.service.d/10-after.conf
+Allocated inode: 187887
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf mode 0100644
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf uid 0
+debugfs: sif /usr/lib/systemd/system/bluebinder.service.d/10-after.conf gid 0
+debugfs: rm /usr/sbin/amar-mount-vendor.sh
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: write /home/pnkrwka/droidian-TB-X306_X_F/droidian-port/build/lte/overlay/usr/sbin/amar-mount-vendor.sh /usr/sbin/amar-mount-vendor.sh
+Allocated inode: 24970
+debugfs: sif /usr/sbin/amar-mount-vendor.sh mode 0100755
+debugfs: sif /usr/sbin/amar-mount-vendor.sh uid 0
+debugfs: sif /usr/sbin/amar-mount-vendor.sh gid 0
+debugfs: rm /etc/systemd/system/multi-user.target.wants/amar-modules.service
+rm: File not found by ext2_lookup while trying to resolve filename
+debugfs: symlink /etc/systemd/system/multi-user.target.wants/amar-modules.service /etc/systemd/system/amar-modules.service
